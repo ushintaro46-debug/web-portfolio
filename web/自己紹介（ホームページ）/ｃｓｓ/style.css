@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+　idth: 150px;
+  height: auto;
+  border-radius: 50%;
+}
+img{
+margin: 16px 0 0; 
+}
+h1 {font-size: 32px;
+    font-style: italic;
+	color:white;
+	background:#0093D0;
+	text-align:center;
+}
+.img{
+	margin: 0 auto;
+	width: 300px;	
+}
+h2{
+border-left: solid 5px #0093D0;
+padding-left:10px;
+}
+.text {
+    margin: 16px 0 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.text-center {
+ text-align: center;
+}
+
+
+
+
+
+/*コメント*/
+/* <li>スポーツ：野球（日ハムファン）</li>*/
